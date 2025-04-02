@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 🚀 &nbsp;Some tools I have used and learned</h2>
+<!-- <h2> 🚀 &nbsp;Some tools I have used and learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" width="45" height="45" />
-</p>
+</p>-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=juanpablopiano&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
 ![Snake animation](https://github.com/juanpablopiano/juanpablopiano/blob/output/github-contribution-grid-snake.svg)
